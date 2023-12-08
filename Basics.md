@@ -19,13 +19,17 @@ You can create unordered lists using `*`, `-`, or `+` and ordered lists using nu
 
 or
 
-1. Item 1
-2. Item 2
-3. Item 3
+- Item 1
+- Item 2
+- Item 3
+  or
++ Item 1
++ Item 2
++ Item 3
 
 
 ## Links
-You can create links using the format `link text`. For example, `GitHub` will create a link to GitHub.
+You can create links using the format [link text] (https://website-name.com) . For example, `GitHub` will create a link to GitHub. [GitHub] (https://github.com/)
 
 ## Images
 Images are similar to links but they include a `!` at the beginning. The format is `!alt text`. The alt text will be displayed if the image cannot be loaded.
@@ -50,4 +54,4 @@ Just like this, you can create Code syntax by using (''')
 ## Blockquotes
 You can create blockquotes using the `>` symbol. For example, `> This is a blockquote.`
 
-Back to [README](https://github.com/sjh90331/Mastering_Markdown/blob/main/README.md)https://github.com/sjh90331/Mastering_Markdown/blob/main/README.md | Next: Advanced
+Back to [README](https://github.com/sjh90331/Mastering_Markdown/blob/main/README.md)| Next: [Advanced](https://github.com/sjh90331/Mastering_Markdown/blob/main/Advanced.md)
