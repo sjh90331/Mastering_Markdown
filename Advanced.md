@@ -14,13 +14,14 @@ Cell 3 |	Cell 4
 ## Task Lists
 You can create task lists using a combination of `-`, `[ ]`, and `[x]`. The `-` creates a list item, `[ ]` creates an empty checkbox, and `[x]` creates a checked checkbox. For example:
 
--[ ] Task 1
--[x] Task 2
--[ ] Task 3
+- [ ] Task 1
+- [X] Task 2
+- [ ] Task 3
 
 ## Using HTML in Markdown
 Markdown supports a subset of HTML, so you can use HTML tags for formatting that's not supported by Markdown. 
 For example, you can create colored text using the `<font>` tag: <font color="red"> 'This is some red text</font>'.
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 
 
