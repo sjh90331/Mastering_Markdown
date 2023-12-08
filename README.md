@@ -14,4 +14,4 @@ This tutorial is designed for beginners who are new to Markdown and GitHub. No p
 - Advanced
 - Conclusion
 
-Next : [Basics.md](https://github.com/sjh90331/Mastering_Markdown/blob/main/Basics.md)
+Next : [Basics](https://github.com/sjh90331/Mastering_Markdown/blob/main/Basics.md)
