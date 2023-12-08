@@ -8,26 +8,21 @@ For example, `# Header 1`, `## Header 2`, `### Header 3`.
 ### This is H3 Heading
 
 ## Emphasis
-You can emphasize text by making it bold or italic. Use `*` or `_` for italics (for example, `*italic*` or `_italic_`) and `**` or `__` for bold (for example, `**bold**` or `__bold__`). You can also combine them to create bold and italic text (for example, `**_bold and italic_**`).
+You can emphasize text by making it bold or italic. Use `*` or `_` for italics (for example, `*italic*` or `_italic_`) ex) *italic* , _italic_ and `**` or `__` for bold (for example, `**bold**` or `__bold__`) 
+ex) **bold** , __bold__ . You can also combine them to create bold and italic text (for example, `**_bold and italic_**`). ex) **__bold and italic__**
 
 ## Lists
 You can create unordered lists using `*`, `-`, or `+` and ordered lists using numbers followed by a period. For example: 
-
+using *
 * Item 1
 * Item 2
 * Item 3
 
 or
-
+using +
 - Item 1
 - Item 2
 - Item 3
-
-or
-
-+ Item 1
-+ Item 2
-+ Item 3
 
 
 ## Links
@@ -39,7 +34,7 @@ Images are similar to links but they include a `!` at the beginning. The format 
 ## Code and Syntax Highlighting
 You can create inline code by wrapping the text in backticks (\`). For example, \`code\`. You can create code blocks by wrapping the text in triple backticks (```). If you specify a language after the opening backticks, it will also provide syntax highlighting.
 
-So let's say I want to share code about Fizzbuzz. For example,
+So let's say I want to share code about Fizzbuzz in python. For example,
 ```
 for i in range (1, 101) :
     if i % 3==0 and i % 5 == 0 :
