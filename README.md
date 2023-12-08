@@ -1,4 +1,3 @@
-# Mastering_Markdown
 # Mastering Markdown: A Beginner's Guide to GitHub Flavored Markdown
 
 ## Author
@@ -14,3 +13,5 @@ This tutorial is designed for beginners who are new to Markdown and GitHub. No p
 - Basics
 - Advanced
 - Conclusion
+
+Next : [Basics.md](https://github.com/sjh90331/Mastering_Markdown/blob/main/Basics.md)
